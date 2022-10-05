@@ -3,7 +3,7 @@
 This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) purchased from [Amazon](https://smile.amazon.com/gp/product/B083TG7Y9B/).  The screen is oriented at a 55 degree angle
 
 <div align="center">
-    <img src="images/Waveshare43_Mount.png" height="400">
+    <img src="Image/Waveshare43_Mount.png" height="400">
 </div>
 
 All needed STL inside, modified Front-Skirts and extended Feet.
