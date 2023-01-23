@@ -6,7 +6,7 @@ This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waves
     <img src="Image/Waveshare43_Mount.png" height="400">
 </div>
 
-All needed STL inside, modified Front-Skirts and extended Feet.
+All needed STL inside, parts for the mount itself, modified Front-Skirts and extended Feet. All parts fit on the V0.1's printbed!
 
 ## Parts Required
 | Part | Quantity | Comment|
