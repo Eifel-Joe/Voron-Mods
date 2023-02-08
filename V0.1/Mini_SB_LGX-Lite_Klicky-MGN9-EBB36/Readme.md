@@ -1,22 +1,21 @@
-# Voron v0.1 4.3" Touchscreen Mount
+# Voron Mini Stealthburner LGX-Lite with Klicky
 
-This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) purchased from [Amazon](https://www.amazon.de/gp/product/B08CH24YYD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).  The screen is oriented at a 55 degree angle
+This mod is based upon [Maverick's design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/MiniSB_LGX_Lite) to fit in the LGX-Lite into the Mini Stealthburner. I took the CAD of Maverick and adopted my Klicky which ist based on the Side-Swipe-Nozzle-Brush and the Zero Klick.
 
 <div align="center">
-    <img src="Image/Waveshare43_Mount.png" height="400">
+    <img src="Image/MiniSB_LGXL.png" height="400">
 </div>
 
-All needed STL inside, parts for the mount itself, modified Front-Skirts and extended Feet. All parts fit on the V0.1's printbed!
+All needed STL inside. All parts fit on the V0.1's printbed!
+
+CAD is only based on MGN9, but there is also a MGN7 version in the STL folder. There is also EBB36 added in the CAD. STL for mounting is in the STL folder as well, but feel free to stay with the original strain-relief-bracket. It will also fit.
+
+Config for Klicky is included, but you have to check your pin for Klicky. The macros are running fine, but this cfg is still under development to make it as easy as possible for you to integrate into your system.
 
 ## Parts Required
-| Part | Quantity | Comment|
-|------|------|--------|
-| M3 X 50 SHCS/BHCS Screw | 4 | for extended Feet |
-| M3 X 8 SHCS/BHCS Screw | 10 | 4 from regular Skirts |
-| M3 hex-Nut | 6 | 4 from regular Skirts |
-| M3 Threaded Insert | 4 | standard Voron Specs |
-| M2.5 Screws | 4 | Included with screen |
-| DSI Cable | 1 | Long enough to reach your Pi |
+
+BOM ist still in progress. Please be pationed.
+
 
 ## Printing
 - Print using standard Voron part settings and in the orientation used in the STL
