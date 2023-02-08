@@ -3,7 +3,7 @@
 This mod is based upon [Maverick's design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/MiniSB_LGX_Lite) to fit in the LGX-Lite into the Mini Stealthburner. I took the CAD of Maverick and adopted my Klicky which ist based on the Side-Swipe-Nozzle-Brush and the Zero Klick.
 
 <div align="center">
-    <img src="Image/MiniSB_LGXL.png" height="400">
+    <img src="Images/MiniSB_LGXL.png" height="400">
 </div>
 
 All needed STL inside. All parts fit on the V0.1's printbed!
